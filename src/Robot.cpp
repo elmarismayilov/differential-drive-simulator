@@ -1,7 +1,7 @@
 #include "../include/Robot.h"
 #include <cmath>
 
-Robot::Robot(double radius, double length) : r(radius), L(length), x(0,0,0), v(0,0), vRight(0), vLeft(0)
+Robot::Robot(double radius, double length) : r(radius), L(length), x(0,0,0), vRight(0), vLeft(0)
 {
     shape.setSize(sf::Vector2f(50,50));
     shape.setOrigin(sf::Vector2f(25,25));

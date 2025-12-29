@@ -14,7 +14,6 @@ class Robot
 {
 private:
     sf::Vector3<double> x;
-    sf::Vector2<double> v;
     double vLeft;
     double vRight;
     const double r;
