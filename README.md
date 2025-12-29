@@ -21,8 +21,7 @@ A simple 2D simulation of a TurtleBot3-like differential drive robot using C++ a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/virtualtb3.git
-   cd virtualtb3
+   git clone https://github.com/elmarismayilov/differential-drive-simulator.git
    ```
 
 2. Create a build directory:
