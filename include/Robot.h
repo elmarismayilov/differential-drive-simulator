@@ -25,5 +25,4 @@ public:
     void render(sf::RenderWindow& window);
     double getVLeft();
     double getVRight();
-public:
 };
